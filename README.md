@@ -250,7 +250,11 @@ Caused by: java.lang.IllegalArgumentException: Failed to create query for method
 
 ### LV.4-1 예상대로 성공하는가?
 ### LV.4-1-1 인코더 제대로 동작하는가?
+<details>
+<summary> 열기/닫기 </summary
+					
 테스트 코드 실행(../test/java/org.example/expert/config/PasswordEncoderTest.java)
+
 ![](https://velog.velcdn.com/images/parslime/post/6b4b152b-2ce3-4af1-b9b3-057375d2deb4/image.png)
 
 
@@ -274,7 +278,13 @@ Caused by: java.lang.IllegalArgumentException: Failed to create query for method
 
 #### 한글 경로 쓰지 말자.
 
+</details>
+
 ### LV.4-2 테스트 코드2 : 예상대로 예외처리 하는가?
+
+<details>
+<summary> 열기/닫기 </summary
+					
 ### LV.4-2-1 목록 조회 시 TODO 없으면 에러
 ![](https://velog.velcdn.com/images/parslime/post/b9944dc6-a357-4fd2-b5a8-192705193a99/image.png)
 
@@ -337,3 +347,4 @@ InvalidRequestException이 필요한데,
 
 ![](https://velog.velcdn.com/images/parslime/post/7d37f4eb-6fb6-488e-8aa3-31aac5828001/image.png)
 
+</details>
